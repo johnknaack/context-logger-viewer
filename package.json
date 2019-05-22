@@ -1,0 +1,15 @@
+{
+  "name": "context-logger-viewer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "jknaack",
+  "license": "ISC",
+  "dependencies": {
+    "context-logger-viewer-ui": "file:../context-logger-viewer-ui",
+    "express": "^4.16.4",
+    "winston-transport": "^4.3.0"
+  },
+  "devDependencies": {}
+}
