@@ -7,7 +7,7 @@
   "author": "jknaack",
   "license": "ISC",
   "dependencies": {
-    "context-logger-viewer-ui": "file:../context-logger-viewer-ui",
+    "context-logger-viewer-ui": "git://github.com/johnknaack/context-logger-viewer-ui.git#0.1.0",
     "express": "^4.16.4",
     "winston-transport": "^4.3.0"
   },
